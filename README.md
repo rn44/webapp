@@ -6,3 +6,6 @@ This project is a homework assignment to get Pycharm working with Docker, Flask,
 
 # Postman Screenshot
 ![postman_request_output](./screenshots/postman.png)
+
+# Running WebApp
+![webapp_running](./screenshots/webApp.png)
